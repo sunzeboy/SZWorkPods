@@ -1,0 +1,6 @@
+framework module SZWorkPods {
+  umbrella header "SZWorkPods-umbrella.h"
+
+  export *
+  module * { export * }
+}

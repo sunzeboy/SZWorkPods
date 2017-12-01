@@ -1,0 +1,16 @@
+PODS:
+  - SZWorkPods (0.1.0)
+
+DEPENDENCIES:
+  - SZWorkPods (from `../`)
+
+EXTERNAL SOURCES:
+  SZWorkPods:
+    :path: ../
+
+SPEC CHECKSUMS:
+  SZWorkPods: d5977ac197a9e0eb3bb3f128e9b94f58b26c9811
+
+PODFILE CHECKSUM: f6c9981834b50e6ad9a0edee383435e834909c04
+
+COCOAPODS: 1.3.1
