@@ -1,7 +1,7 @@
 {
   "name": "SZWorkPods",
   "version": "0.1.0",
-  "summary": "A short description of SZWorkPods.",
+  "summary": "Engineering auxiliary tools.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/sunzeboy/SZWorkPods",
   "license": {
@@ -18,5 +18,16 @@
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "SZWorkPods/Classes/**/*"
+  "source_files": "SZWorkPods/Classes/**/*",
+  "dependencies": {
+    "SDWebImage": [
+      "~> 3.7.2"
+    ],
+    "FMDB": [
+
+    ],
+    "Masonry": [
+
+    ]
+  }
 }
