@@ -1,4 +1,5 @@
 # SZWorkPods
+<<<<<<< HEAD
 
 [![CI Status](http://img.shields.io/travis/sunzeboy/SZWorkPods.svg?style=flat)](https://travis-ci.org/sunzeboy/SZWorkPods)
 [![Version](https://img.shields.io/cocoapods/v/SZWorkPods.svg?style=flat)](http://cocoapods.org/pods/SZWorkPods)
@@ -27,3 +28,6 @@ sunzeboy, 13162153278@163.com
 ## License
 
 SZWorkPods is available under the MIT license. See the LICENSE file for more info.
+=======
+Engineering auxiliary tools.
+>>>>>>> de4828159daf386e061000007f4efde37040fc39
