@@ -8,6 +8,30 @@
 
 /* Begin PBXBuildFile section */
 		19AB9C928C91F5936021888D653304F4 /* SZWorkPods-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 7AD3D1FA36804193C4C2048656D2EE7A /* SZWorkPods-dummy.m */; };
+		1DC9E1341FD1509B00975283 /* SZ_GCDTimerManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 1DC9E1161FD1509B00975283 /* SZ_GCDTimerManager.h */; };
+		1DC9E1351FD1509B00975283 /* SZ_GCDTimerManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 1DC9E1171FD1509B00975283 /* SZ_GCDTimerManager.m */; };
+		1DC9E1361FD1509B00975283 /* UIImage+XLExtension.h in Headers */ = {isa = PBXBuildFile; fileRef = 1DC9E1191FD1509B00975283 /* UIImage+XLExtension.h */; };
+		1DC9E1371FD1509B00975283 /* XLPhotoBrowserConfig.h in Headers */ = {isa = PBXBuildFile; fileRef = 1DC9E11A1FD1509B00975283 /* XLPhotoBrowserConfig.h */; };
+		1DC9E1381FD1509B00975283 /* XLProgressView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1DC9E11B1FD1509B00975283 /* XLProgressView.m */; };
+		1DC9E1391FD1509B00975283 /* XLZoomingScrollView.h in Headers */ = {isa = PBXBuildFile; fileRef = 1DC9E11C1FD1509B00975283 /* XLZoomingScrollView.h */; };
+		1DC9E13A1FD1509B00975283 /* VGOPhotoBrowserManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 1DC9E11D1FD1509B00975283 /* VGOPhotoBrowserManager.m */; };
+		1DC9E13B1FD1509B00975283 /* UIView+XLExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 1DC9E11E1FD1509B00975283 /* UIView+XLExtension.m */; };
+		1DC9E13C1FD1509B00975283 /* XLPhotoBrowser.h in Headers */ = {isa = PBXBuildFile; fileRef = 1DC9E11F1FD1509B00975283 /* XLPhotoBrowser.h */; };
+		1DC9E13D1FD1509B00975283 /* XLProgressView.h in Headers */ = {isa = PBXBuildFile; fileRef = 1DC9E1201FD1509B00975283 /* XLProgressView.h */; };
+		1DC9E13E1FD1509B00975283 /* UIImage+XLExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 1DC9E1211FD1509B00975283 /* UIImage+XLExtension.m */; };
+		1DC9E13F1FD1509B00975283 /* XLPhotoBrowserTypeDefine.h in Headers */ = {isa = PBXBuildFile; fileRef = 1DC9E1221FD1509B00975283 /* XLPhotoBrowserTypeDefine.h */; };
+		1DC9E1401FD1509B00975283 /* XLZoomingScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1DC9E1231FD1509B00975283 /* XLZoomingScrollView.m */; };
+		1DC9E1411FD1509B00975283 /* VGOPhotoBrowserManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 1DC9E1241FD1509B00975283 /* VGOPhotoBrowserManager.h */; };
+		1DC9E1421FD1509B00975283 /* XLPhotoBrowser.m in Sources */ = {isa = PBXBuildFile; fileRef = 1DC9E1251FD1509B00975283 /* XLPhotoBrowser.m */; };
+		1DC9E1431FD1509B00975283 /* UIView+XLExtension.h in Headers */ = {isa = PBXBuildFile; fileRef = 1DC9E1261FD1509B00975283 /* UIView+XLExtension.h */; };
+		1DC9E1441FD1509B00975283 /* FSActionSheetItem.h in Headers */ = {isa = PBXBuildFile; fileRef = 1DC9E1291FD1509B00975283 /* FSActionSheetItem.h */; };
+		1DC9E1451FD1509B00975283 /* FSActionSheetCell.h in Headers */ = {isa = PBXBuildFile; fileRef = 1DC9E12A1FD1509B00975283 /* FSActionSheetCell.h */; };
+		1DC9E1461FD1509B00975283 /* FSActionSheetConfig.m in Sources */ = {isa = PBXBuildFile; fileRef = 1DC9E12E1FD1509B00975283 /* FSActionSheetConfig.m */; };
+		1DC9E1471FD1509B00975283 /* FSActionSheet.m in Sources */ = {isa = PBXBuildFile; fileRef = 1DC9E12F1FD1509B00975283 /* FSActionSheet.m */; };
+		1DC9E1481FD1509B00975283 /* FSActionSheetCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 1DC9E1301FD1509B00975283 /* FSActionSheetCell.m */; };
+		1DC9E1491FD1509B00975283 /* FSActionSheetItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 1DC9E1311FD1509B00975283 /* FSActionSheetItem.m */; };
+		1DC9E14A1FD1509B00975283 /* FSActionSheetConfig.h in Headers */ = {isa = PBXBuildFile; fileRef = 1DC9E1321FD1509B00975283 /* FSActionSheetConfig.h */; };
+		1DC9E14B1FD1509B00975283 /* FSActionSheet.h in Headers */ = {isa = PBXBuildFile; fileRef = 1DC9E1331FD1509B00975283 /* FSActionSheet.h */; };
 		422B34953A36068C6B4A340CF2828A38 /* Pods-SZWorkPods_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 7782A6F19441CD49C1F4AE82A9D399AF /* Pods-SZWorkPods_Tests-dummy.m */; };
 		64E97E6AE0955ECE7642F840744F5C99 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
 		692B0C53370107FA8AAAAE84658D29BA /* Pods-SZWorkPods_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 0858D369CAE349ED55B748896C80A794 /* Pods-SZWorkPods_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -32,6 +56,32 @@
 		038798601F9E04CD5E00ADDDE659D564 /* Pods-SZWorkPods_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SZWorkPods_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		0858D369CAE349ED55B748896C80A794 /* Pods-SZWorkPods_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-SZWorkPods_Tests-umbrella.h"; sourceTree = "<group>"; };
 		1CA216450774C62DEF2828A7E5C850CD /* Pods-SZWorkPods_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SZWorkPods_Example.release.xcconfig"; sourceTree = "<group>"; };
+		1DC9E1161FD1509B00975283 /* SZ_GCDTimerManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SZ_GCDTimerManager.h; sourceTree = "<group>"; };
+		1DC9E1171FD1509B00975283 /* SZ_GCDTimerManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SZ_GCDTimerManager.m; sourceTree = "<group>"; };
+		1DC9E1191FD1509B00975283 /* UIImage+XLExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+XLExtension.h"; sourceTree = "<group>"; };
+		1DC9E11A1FD1509B00975283 /* XLPhotoBrowserConfig.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XLPhotoBrowserConfig.h; sourceTree = "<group>"; };
+		1DC9E11B1FD1509B00975283 /* XLProgressView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XLProgressView.m; sourceTree = "<group>"; };
+		1DC9E11C1FD1509B00975283 /* XLZoomingScrollView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XLZoomingScrollView.h; sourceTree = "<group>"; };
+		1DC9E11D1FD1509B00975283 /* VGOPhotoBrowserManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VGOPhotoBrowserManager.m; sourceTree = "<group>"; };
+		1DC9E11E1FD1509B00975283 /* UIView+XLExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+XLExtension.m"; sourceTree = "<group>"; };
+		1DC9E11F1FD1509B00975283 /* XLPhotoBrowser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XLPhotoBrowser.h; sourceTree = "<group>"; };
+		1DC9E1201FD1509B00975283 /* XLProgressView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XLProgressView.h; sourceTree = "<group>"; };
+		1DC9E1211FD1509B00975283 /* UIImage+XLExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+XLExtension.m"; sourceTree = "<group>"; };
+		1DC9E1221FD1509B00975283 /* XLPhotoBrowserTypeDefine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XLPhotoBrowserTypeDefine.h; sourceTree = "<group>"; };
+		1DC9E1231FD1509B00975283 /* XLZoomingScrollView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XLZoomingScrollView.m; sourceTree = "<group>"; };
+		1DC9E1241FD1509B00975283 /* VGOPhotoBrowserManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VGOPhotoBrowserManager.h; sourceTree = "<group>"; };
+		1DC9E1251FD1509B00975283 /* XLPhotoBrowser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XLPhotoBrowser.m; sourceTree = "<group>"; };
+		1DC9E1261FD1509B00975283 /* UIView+XLExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+XLExtension.h"; sourceTree = "<group>"; };
+		1DC9E1291FD1509B00975283 /* FSActionSheetItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FSActionSheetItem.h; sourceTree = "<group>"; };
+		1DC9E12A1FD1509B00975283 /* FSActionSheetCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FSActionSheetCell.h; sourceTree = "<group>"; };
+		1DC9E12C1FD1509B00975283 /* FSActionSheet_cancel@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "FSActionSheet_cancel@3x.png"; sourceTree = "<group>"; };
+		1DC9E12D1FD1509B00975283 /* FSActionSheet_cancel@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "FSActionSheet_cancel@2x.png"; sourceTree = "<group>"; };
+		1DC9E12E1FD1509B00975283 /* FSActionSheetConfig.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FSActionSheetConfig.m; sourceTree = "<group>"; };
+		1DC9E12F1FD1509B00975283 /* FSActionSheet.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FSActionSheet.m; sourceTree = "<group>"; };
+		1DC9E1301FD1509B00975283 /* FSActionSheetCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FSActionSheetCell.m; sourceTree = "<group>"; };
+		1DC9E1311FD1509B00975283 /* FSActionSheetItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FSActionSheetItem.m; sourceTree = "<group>"; };
+		1DC9E1321FD1509B00975283 /* FSActionSheetConfig.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FSActionSheetConfig.h; sourceTree = "<group>"; };
+		1DC9E1331FD1509B00975283 /* FSActionSheet.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FSActionSheet.h; sourceTree = "<group>"; };
 		27197A49C8189137EA5B6E8F18027762 /* Pods-SZWorkPods_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SZWorkPods_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		2D6DB7A65E9D21C17A57458058F74BEB /* Pods-SZWorkPods_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-SZWorkPods_Example.modulemap"; sourceTree = "<group>"; };
 		2D8091C7F7F99E9E723F417CCD4DA8CE /* Pods_SZWorkPods_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SZWorkPods_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -100,6 +150,61 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
+		1DC9E1181FD1509B00975283 /* XLPhotoBrowser+CoderXL */ = {
+			isa = PBXGroup;
+			children = (
+				1DC9E1191FD1509B00975283 /* UIImage+XLExtension.h */,
+				1DC9E11A1FD1509B00975283 /* XLPhotoBrowserConfig.h */,
+				1DC9E11B1FD1509B00975283 /* XLProgressView.m */,
+				1DC9E11C1FD1509B00975283 /* XLZoomingScrollView.h */,
+				1DC9E11D1FD1509B00975283 /* VGOPhotoBrowserManager.m */,
+				1DC9E11E1FD1509B00975283 /* UIView+XLExtension.m */,
+				1DC9E11F1FD1509B00975283 /* XLPhotoBrowser.h */,
+				1DC9E1201FD1509B00975283 /* XLProgressView.h */,
+				1DC9E1211FD1509B00975283 /* UIImage+XLExtension.m */,
+				1DC9E1221FD1509B00975283 /* XLPhotoBrowserTypeDefine.h */,
+				1DC9E1231FD1509B00975283 /* XLZoomingScrollView.m */,
+				1DC9E1241FD1509B00975283 /* VGOPhotoBrowserManager.h */,
+				1DC9E1251FD1509B00975283 /* XLPhotoBrowser.m */,
+				1DC9E1261FD1509B00975283 /* UIView+XLExtension.h */,
+				1DC9E1271FD1509B00975283 /* Vender */,
+			);
+			path = "XLPhotoBrowser+CoderXL";
+			sourceTree = "<group>";
+		};
+		1DC9E1271FD1509B00975283 /* Vender */ = {
+			isa = PBXGroup;
+			children = (
+				1DC9E1281FD1509B00975283 /* FSActionSheet */,
+			);
+			path = Vender;
+			sourceTree = "<group>";
+		};
+		1DC9E1281FD1509B00975283 /* FSActionSheet */ = {
+			isa = PBXGroup;
+			children = (
+				1DC9E1291FD1509B00975283 /* FSActionSheetItem.h */,
+				1DC9E12A1FD1509B00975283 /* FSActionSheetCell.h */,
+				1DC9E12B1FD1509B00975283 /* FSActionSheetResources */,
+				1DC9E12E1FD1509B00975283 /* FSActionSheetConfig.m */,
+				1DC9E12F1FD1509B00975283 /* FSActionSheet.m */,
+				1DC9E1301FD1509B00975283 /* FSActionSheetCell.m */,
+				1DC9E1311FD1509B00975283 /* FSActionSheetItem.m */,
+				1DC9E1321FD1509B00975283 /* FSActionSheetConfig.h */,
+				1DC9E1331FD1509B00975283 /* FSActionSheet.h */,
+			);
+			path = FSActionSheet;
+			sourceTree = "<group>";
+		};
+		1DC9E12B1FD1509B00975283 /* FSActionSheetResources */ = {
+			isa = PBXGroup;
+			children = (
+				1DC9E12C1FD1509B00975283 /* FSActionSheet_cancel@3x.png */,
+				1DC9E12D1FD1509B00975283 /* FSActionSheet_cancel@2x.png */,
+			);
+			path = FSActionSheetResources;
+			sourceTree = "<group>";
+		};
 		3CDB705E637E2F796B20094E8D60C76A /* Targets Support Files */ = {
 			isa = PBXGroup;
 			children = (
@@ -112,6 +217,9 @@
 		3D0A1734B5A548E336C882BB8EB35160 /* SZWorkPods */ = {
 			isa = PBXGroup;
 			children = (
+				1DC9E1161FD1509B00975283 /* SZ_GCDTimerManager.h */,
+				1DC9E1171FD1509B00975283 /* SZ_GCDTimerManager.m */,
+				1DC9E1181FD1509B00975283 /* XLPhotoBrowser+CoderXL */,
 				BAE90B6FAFA0D9EF70363B252C3575BD /* Support Files */,
 			);
 			name = SZWorkPods;
@@ -226,7 +334,20 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1DC9E13D1FD1509B00975283 /* XLProgressView.h in Headers */,
+				1DC9E1391FD1509B00975283 /* XLZoomingScrollView.h in Headers */,
+				1DC9E1371FD1509B00975283 /* XLPhotoBrowserConfig.h in Headers */,
+				1DC9E1341FD1509B00975283 /* SZ_GCDTimerManager.h in Headers */,
+				1DC9E1441FD1509B00975283 /* FSActionSheetItem.h in Headers */,
+				1DC9E1451FD1509B00975283 /* FSActionSheetCell.h in Headers */,
+				1DC9E1411FD1509B00975283 /* VGOPhotoBrowserManager.h in Headers */,
+				1DC9E1431FD1509B00975283 /* UIView+XLExtension.h in Headers */,
+				1DC9E1361FD1509B00975283 /* UIImage+XLExtension.h in Headers */,
+				1DC9E14A1FD1509B00975283 /* FSActionSheetConfig.h in Headers */,
+				1DC9E13C1FD1509B00975283 /* XLPhotoBrowser.h in Headers */,
+				1DC9E14B1FD1509B00975283 /* FSActionSheet.h in Headers */,
 				C5F46C15E746502486050C8AC6F1625B /* SZWorkPods-umbrella.h in Headers */,
+				1DC9E13F1FD1509B00975283 /* XLPhotoBrowserTypeDefine.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -326,7 +447,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1DC9E1481FD1509B00975283 /* FSActionSheetCell.m in Sources */,
+				1DC9E1471FD1509B00975283 /* FSActionSheet.m in Sources */,
+				1DC9E13B1FD1509B00975283 /* UIView+XLExtension.m in Sources */,
+				1DC9E13E1FD1509B00975283 /* UIImage+XLExtension.m in Sources */,
+				1DC9E13A1FD1509B00975283 /* VGOPhotoBrowserManager.m in Sources */,
+				1DC9E1491FD1509B00975283 /* FSActionSheetItem.m in Sources */,
+				1DC9E1381FD1509B00975283 /* XLProgressView.m in Sources */,
 				19AB9C928C91F5936021888D653304F4 /* SZWorkPods-dummy.m in Sources */,
+				1DC9E1421FD1509B00975283 /* XLPhotoBrowser.m in Sources */,
+				1DC9E1461FD1509B00975283 /* FSActionSheetConfig.m in Sources */,
+				1DC9E1401FD1509B00975283 /* XLZoomingScrollView.m in Sources */,
+				1DC9E1351FD1509B00975283 /* SZ_GCDTimerManager.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
